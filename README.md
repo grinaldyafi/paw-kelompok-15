@@ -22,3 +22,6 @@ Aplikasi ini sudah dideploy pada url: https://todolistapp-kel15.herokuapp.com/
 4. ``npm install`` pada folder _client_
 5. ``nodemon index`` pada folder _root_
 6. ``npm start`` pada folder _client_
+
+## Referensi
+https://github.com/davidle282/mern-crud-app  
