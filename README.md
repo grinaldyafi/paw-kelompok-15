@@ -1,5 +1,12 @@
 # Pengembangan  Aplikasi Web Kelompok 15 - To Do List
 
+## Anggota Kelompok
+Thoriq Faisal Yahya   (19/444074/TK/49270)
+Aswan Zakky Mukhtarom (19/439810/TK/48540)
+Agustina Asmoro Putri  (19/439805/TK/48535)
+Sofyan Hidayat Budiyono (19/444072/TK/49268)
+Grinaldy Yafi’ Rasyad  (19/446780/TK/49885)
+
 ## Deskripsi
 Aplikasi To Do List ini dibuat untuk memenuhi tugas mata kuliah Pengembangan Aplikasi Web 2021/2022.
 Di dalam aplikasi ini diterapkan fungsi CRUD yaitu Create, Read, Update, dan Delete.
