@@ -1,7 +1,7 @@
 # Pengembangan  Aplikasi Web Kelompok 15 - To Do List
 
 ## Anggota Kelompok
-Thoriq Faisal Yahya   (19/444074/TK/49270)
+Thoriq Faisal Yahya   (19/444074/TK/49270)\n
 Aswan Zakky Mukhtarom (19/439810/TK/48540)
 Agustina Asmoro Putri  (19/439805/TK/48535)
 Sofyan Hidayat Budiyono (19/444072/TK/49268)
