@@ -9,8 +9,10 @@
 
 ## Deskripsi
 Aplikasi To Do List ini dibuat untuk memenuhi tugas mata kuliah Pengembangan Aplikasi Web 2021/2022.
+Aplikasi ini dapat digunakan untuk membuat daftar tugas atau kegiatan yang harus dikerjakan dalam rentang waktu tertentu. Dengan menggunakan aplikasi ini, pengguna dapat melakukan perencanaan agar jadwalnya tidak saling bertabrakan.
 Di dalam aplikasi ini diterapkan fungsi CRUD yaitu Create, Read, Update, dan Delete.
 Pengguna dapat membuat atau menambah daftar (create), melihat daftar apa saja yang sudah dibuat (read), mengedit atau mengubah daftar (update), dan menghapus daftar dari aplikasi (delete).
+Selain itu, pada aplikasi ini juga terdapat fitur Search yang dapat digunakan untuk mencari list tertentu.
 
 ## Deployment
 Aplikasi ini sudah dideploy pada url: https://todolistapp-kel15.herokuapp.com/
