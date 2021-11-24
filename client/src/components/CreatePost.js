@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Axios from "axios";
 import { setErrors } from "./../conmmon/setErrors";
 import CKEditor from "@ckeditor/ckeditor5-react";
+import { Redirect } from 'react-router'
 import ClassicEditor from "@ckeditor/ckeditor5-build-classic";
 import "../App.css";
 class CreatePost extends Component {
@@ -41,13 +42,18 @@ class CreatePost extends Component {
       Axios.post("/posts/add", data).then((res) => {
         if (res.data.success) {
           alert("Added");
-          this.setState({ title: "", description: "", category: "" });
+          this.setState({ title: "", description: "", category: "",redirect: true });
         }
       });
     }
   };
 
   render() {
+    const { redirect } = this.state;
+
+     if (redirect) {
+       return <Redirect to='/'/>;
+     }
     return (
       <div className="todo-app">
         <h1 className="create-new">Create New Task</h1>
