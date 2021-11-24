@@ -12,6 +12,9 @@ Aplikasi To Do List ini dibuat untuk memenuhi tugas mata kuliah Pengembangan Apl
 Di dalam aplikasi ini diterapkan fungsi CRUD yaitu Create, Read, Update, dan Delete.
 Pengguna dapat membuat atau menambah daftar (create), melihat daftar apa saja yang sudah dibuat (read), mengedit atau mengubah daftar (update), dan menghapus daftar dari aplikasi (delete).
 
+## Deployment
+Aplikasi ini sudah dideploy pada url: https://todolistapp-kel15.herokuapp.com/
+
 ## Instalasi
 1. Siapkan _key string_ yang didapatkan dari MongoDB
 2. Buat file dev.js pada folder _config_ dan isi dengan module.export={ mongo_uri:"<mongodb_key>"};
